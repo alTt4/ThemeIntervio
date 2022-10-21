@@ -1,0 +1,515 @@
+.rtl .service-block-one h4 {
+    text-align: right!important;
+}
+
+.rtl .main-menu .navigation>li>ul>li>a{
+	text-align: right;
+}
+
+.main-menu .navigation>li{
+	float: right;
+}
+
+.rtl .main-menu .navigation>li>a{
+	text-align: right;
+}
+
+.rtl .hidden-sidebar{
+	text-align: right;
+}
+
+.rtl .widget-title:before{
+	left: inherit;
+	right: 0px;
+}
+
+.rtl .hidden-sidebar .newsletter-widget input[type="email"]{
+	text-align: right;
+}
+
+.rtl .one.about-us-section-three{
+	text-align: right;
+}
+
+.rtl .about-us-section-three .years{
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	margin: 0px;
+}
+
+.rtl .about-us-section-three .experience-years{
+	display: block;
+	padding-right: 130px;
+}
+
+.rtl .about-us-section-three .experience-years .text{
+	float: right;
+}
+
+.rtl .service-block-one .content{
+	text-align: right;
+}
+
+.rtl .service-block-one h4:before{
+	left: inherit;
+	right: 0px;
+}
+
+.rtl .process-block .inner-box{
+	text-align: right;
+	display: block;
+	padding-right: 120px;
+}
+
+.rtl .working-process-section .process-block .inner-box>.icon{
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	margin: 0px;
+}
+
+.rtl .feature-block{
+	text-align: right;
+}
+
+.rtl .owl-carousel{
+	direction: ltr;
+}
+
+.rtl .feature-block h3:before{
+	left: inherit;
+	right: -75px;
+}
+
+.rtl .one.blog-section .news-block-one .content{
+	text-align: right;
+}
+
+.rtl .news-block-one .text:before{
+	left: inherit;
+	right: -40px;
+}
+
+.rtl .newsletter-section .left-content{
+	text-align: right;
+}
+
+.rtl .newsletter-section input{
+	text-align: right;
+}
+
+.rtl .footer-widget{
+	text-align: right;
+}
+
+.rtl .search-popup .search-form fieldset input[type="search"]{
+	text-align: right;
+}
+
+.rtl .banner-section .content-box-two .inner{
+	text-align: right;
+}
+
+.rtl .banner-section .content-box-two h1:before{
+	left: inherit;
+	right: 0px;
+}
+
+.rtl .about-us-section-two .content-block{
+	text-align: right;
+}
+
+.rtl .feature-block-two .inner-box{
+	text-align: right;
+}
+
+.rtl .feature-block-two h4:before{
+	left: inherit;
+	right: 0px;
+}
+
+.rtl .project-block-two .content{
+	text-align: right;
+}
+
+.rtl .project-block-two .content h4:before{
+	left: inherit;
+	right: 0px;
+}
+
+.rtl .service-block-two .inner-box{
+	text-align: right;
+}
+
+.rtl .service-block-two h4:before{
+	left: inherit;
+	right: 0px;
+}
+
+.rtl .float-left{
+	float: right !important;
+}
+
+.rtl .float-right{
+	float: left !important;
+}
+
+.rtl .experience-section .sec-title{
+	text-align: right;
+}
+
+.rtl .contact-section .contact-form-area{
+	text-align: right;
+	overflow: hidden;
+}
+
+.rtl .sec-title .sec-title-dec-two{
+	left: inherit;
+	right: -75px;
+}
+
+.rtl .contact-form .bootstrap-select>.dropdown-toggle, 
+.rtl .contact-form .form-group input[type="text"], 
+.rtl .contact-form .form-group input[type="email"], 
+.rtl .contact-form .form-group textarea, 
+.rtl .contact-form .form-group select{
+	text-align: right;
+}
+
+.rtl .progress-levels .progress-box .percent{
+	right: inherit;
+	left: 0px;
+}
+
+.rtl .progress-levels h5{
+	text-align: right;
+}
+
+.rtl .about-us-section-three .content{
+	text-align: right;
+}
+
+.rtl .service-block-three .inner-box{
+	text-align: right;
+}
+
+.rtl .service-block-three h4:before{
+	left: inherit;
+	right: 0px;
+}
+
+.rtl .projects-section-three .sec-title{
+	text-align: right;
+}
+
+.rtl .project-block-three .content h4:before{
+	left: inherit;
+	right: 0px;
+}
+
+.rtl .project-block-three .content .link:before{
+	left: inherit;
+	right: 0px;
+}
+
+.rtl .contact-section-two .contact-form-area{
+	text-align: right;
+}
+
+.rtl .project-block-three .content{
+	text-align: right;
+}
+
+.rtl .project-block-three .content .link i{
+	margin-left: 0px;
+	margin-right: 25px;
+}
+
+.rtl .about-us-section-four .content{
+	text-align: right;
+}
+
+.rtl .about-us-section-four .content h4:before{
+	left: inherit;
+	right: 0px;
+}
+
+.rtl .process-block-two .icon{
+	display: inline-block;
+	margin-right: 0px;
+	margin-bottom: 20px;
+}
+
+.rtl .process-block-two .inner-box{
+	display: block;
+	text-align: right;
+}
+
+.rtl .projects-section-four .sec-title{
+	max-width: 300px;
+	text-align: right;
+}
+
+.rtl .project-block-four .content{
+	text-align: right;
+}
+
+.rtl .project-block-four .content h4:before{
+	left: inherit;
+	right: 0px;
+}
+
+.rtl .news-block-three .content{
+	text-align: right;
+}
+
+.rtl .news-block-three h3:before{
+	left: inherit;
+	right: 0px;
+}
+
+.rtl .news-block-three .link-btn{
+	left: inherit;
+	right: 40px;
+}
+
+.rtl .news-block-three .date{
+	left: inherit;
+	right: 40px;
+}
+
+.rtl .banner-section.style-five .content-box .inner{
+	text-align: right;
+}
+
+.rtl .sticky-header .main-menu .navigation{
+	display: block;
+}
+
+.rtl .about-us-section-five .content{
+	text-align: right;
+}
+
+.rtl .about-us-section-five .content h4:before{
+	left: inherit;
+	right: 0px;
+}
+
+.rtl .services-section-five .sec-title{
+	text-align: right;
+}
+
+.rtl .clients-logo-section-two .sec-title{
+	text-align: right;
+}
+
+.rtl .news-block-one .content{
+	text-align: right;
+}
+
+.rtl .banner-section.style-six .content-box-three .inner{
+	text-align: right;
+}
+
+.rtl .banner-section.style-six .link-box:before{
+	left: inherit;
+	right: -97px;
+}
+
+.rtl .banner-section.style-six .link-box{
+	margin-left: 0px;
+	margin-right: 20px;
+}
+
+.rtl .featues-section-four .sec-title.style-two h2{
+	text-align: right;
+}
+
+.rtl .featues-section-four .sec-title.style-two .text{
+	text-align: right;
+}
+
+.rtl .tab-box{
+	text-align: right;
+}
+
+.rtl .about-section-six .tab-content ul li i {
+	margin-right: 0px;
+    margin-left: 10px;
+    float: right;
+    line-height: 30px;
+	transform: rotate(180deg);
+}
+
+.rtl .about-section-six .sec-title{
+	text-align: right;
+}
+
+.rtl .about-us-section .content{
+	text-align: right;
+}
+
+.rtl .widget_categories_two .widget-content li{
+	text-align: right;
+}
+
+.rtl .widget_categories_two .widget-content li a:before{
+	left: inherit;
+	right: -50px;
+}
+
+.rtl .widget_brochure .single-brochure{
+	display: block;
+	text-align: right;
+	padding-right: 80px;
+}
+
+.rtl .widget_brochure .single-brochure .icon{
+	position: absolute;
+	top: 17px;
+	right: 30px;
+}
+
+.rtl .widget_client_review{
+	text-align: right;
+}
+
+.rtl .service-sidebar{
+	text-align: right;
+}
+
+.rtl .widget_contact_form textarea, 
+.rtl .widget_contact_form input[type="email"], 
+.rtl .widget_contact_form input[type="text"]{
+	text-align: right;
+}
+
+.rtl .services-details{
+	text-align: right;
+}
+
+.rtl .services-details .content-side .text{
+	text-align: right;
+}
+
+.rtl .timeline-block li .content{
+	text-align: right;
+}
+
+.rtl .timeline-block h4:before{
+	left: inherit;
+	right: 0px;
+}
+
+.rtl .news-block-four .content{
+	text-align: right;
+}
+
+.rtl .widget_search input[type="search"]{
+	text-align: right;
+	padding-right: 100px;
+}
+
+.rtl .blog-sidebar{
+	text-align: right;
+}
+
+.rtl .mrsidebar.widget{
+	text-align: right;
+}
+
+.rtl .widget ul li a:before{
+	left: inherit;
+	right: 0px;
+	transform: rotate(180deg);
+}
+
+.rtl .widget_newsletter input[type="email"]{
+	text-align: right;
+	padding-right: 60px;
+}
+
+.rtl .widget ul li a:hover{
+	padding-left: 0px;
+	padding-right: 25px;
+}
+
+.rtl .blog-single-post .content{
+	text-align: right;
+}
+
+.rtl .blog-single-post .image .date{
+	left: inherit;
+	right: 40px;
+}
+
+.rtl .blog-single-post .content .wrapper-box{
+	display: block;
+}
+
+.rtl .blog-single-post .content .wrapper-box:before{
+	left: inherit;
+	right: 0px;
+}
+
+.rtl .blog-single-post .list li{
+	padding-left: 0px;
+	padding-right: 32px;
+}
+
+.rtl .blog-single-post .list li:before{
+	left: inherit;
+	right: 0px;
+}
+
+.rtl .author-box{
+	text-align: right;
+}
+
+.rtl .comments-area{
+	text-align: right;
+}
+
+.rtl .replay-btn a{
+	right: inherit;
+	left: 0px;
+}
+
+.rtl .comments-form-area{
+	text-align: right;
+}
+
+.rtl .form-control{
+	text-align: right;
+}
+
+.rtl .contact-section .contact-info-two .content{
+	text-align: right;
+}
+
+.rtl .contact-section .contact-info-two .content h2:before{
+	left: inherit;
+	right: -65px;
+}
+
+.rtl .contact-section .contact-info-two .content li{
+	position: relative;
+	padding-right: 30px;
+}
+
+.rtl .contact-section .contact-info-two .content li i{
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	margin: 0px;
+}
+
+.rtl .main-menu .navigation>li>ul>li.dropdown>a:after{
+	right: inherit;
+	left: 0px;
+}
+
+.rtl .main-menu .navigation>li>ul>li>ul>li>a{
+	text-align: right;
+}

@@ -1,0 +1,171 @@
+/*
+Theme Name: Intervio
+Theme URI: http://july.commonsupport.com/intervio/
+Author: template_path
+Author URI: https://themeforest.net/user/template_path/
+Description: This is Intervio Interior Solution theme
+Version: 1.0.0
+Tested up to:5.5.1
+Requires PHP:7
+License: copyright commercial
+License URI: https://themeforest.net/user/template_path
+Text Domain: intervio
+
+Tags: blog, two-columns, left-sidebar, accessibility-ready, custom-background, custom-colors, custom-header, custom-logo, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
+
+*/
+
+a{
+	color:#f4a046
+}
+.wp-caption {
+	margin-bottom: 2px;
+}
+
+.wp-caption-text {
+	margin-bottom: 5px;
+}
+
+.screen-reader-text {
+	margin-bottom: 12px;
+}
+
+.gallery-caption {
+	margin-bottom: 2px;
+}
+
+.bypostauthor {
+	margin-bottom: 2px;
+}
+
+.alignleft {
+	float: left;
+	margin-bottom: 20px;
+	margin-right: 20px;
+	max-width: 100%;
+	width: unset !important;
+}
+
+.alignright {
+	float: right !important;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	max-width: 100%;
+	width: unset !important;
+}
+
+.aligncenter {
+	display: block;
+	margin: 0 auto 20px;
+}
+
+.col-md-4 .funfact-meta > i {
+	right: 27px;
+}
+
+.mycustom-pricing {
+	background-color: #090909 !important;
+}
+
+.on-hover {
+	display: none;
+	animation: fadeOut 0.5s;
+}
+
+.hver:hover .on-hover {
+	display: block;
+	animation: fadeIn 0.5s;
+}
+.header-top .social-links ul li a .fa {
+    font-family: 'Font Awesome 5 Brands'!important;
+}
+.blog-single-post .image .date {
+    background-color: #f4a046!important;
+}
+.category_post a{
+	color:#fff!important;
+}
+.search_page{
+	background:#222;
+}
+.error-page .logo img{
+    width: 220px;
+}
+.search_page .content-box{
+    margin-bottom: 120px;
+}
+.error-page.search_page{
+    padding-top: 165px!important;
+    padding-bottom: 60px!important;
+}
+.hiddenbar .sibedwidget-title h4{
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 30px;
+	padding-bottom: 15px;
+}
+.hiddenbar .sibedwidget-title h4:before {
+    position: absolute;
+    content: '';
+    left: 0;
+    bottom: 0;
+    width: 50px;
+    height: 2px;
+background: #f4a046!important;
+}
+.widget_newsletter i {
+    top: 20px!important;
+}
+.widget_newsletter .widget-title:before {
+    background: #fff!important;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.project-block-one .text {
+    width: 450px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.banner-section .btn-style-one.light{
+    color: #fff!important;
+}
+
+.main-header.header-style-five .main-menu .navigation>li{
+    padding: 23px 15px;
+}
+.main-header .header-upper .icon-box {
+    margin-right: 55px!important;
+}
+.mr_side_right{
+	order:2!important;
+}
+
+.mrsidebar ul li a:hover {
+    padding-left: 25px!important;
+    color: #ccad6e;
+}
+.mrsidebar ul li a {
+    color: #222;
+    font-size: 18px;
+    font-weight: 500;
+    transition: .5s;
+    line-height: 33px;
+}
+.mrsidebar {
+    background-color: #f7f7f7;
+    padding: 25px;
+}
+a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart {
+    padding: 15px 38px;
+    font-weight: 600;
+    border-radius: 0;
+    font-size: 14px;
+    color: #fff;
+    background-color: #ff5860;
+    text-transform: capitalize;
+    font-family: Montserrat,sans-serif;
+}
+.mrsidebar.widget_intervio_subscribe_form{
+	padding:0px!important;
+}
